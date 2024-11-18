@@ -1,0 +1,1 @@
+Yes, when you run the ls command after pulling from GitHub, you should see the files and directories that were uploaded to the repository. These files are now in your local repository.
